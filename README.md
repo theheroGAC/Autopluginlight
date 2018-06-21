@@ -1,5 +1,4 @@
 # Autoplugin light
-# Autoplugin
 Autoplugin for PSVITA
 This tool allows you to install the following plugins with one click(on ux0 or ur0):
 - DownloadEnabler
