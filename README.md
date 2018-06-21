@@ -1,7 +1,6 @@
 # Autoplugin light
-Autoplugin for PSVITA
+Autoplugin Light version for PSVITA
 This tool allows you to install the following plugins with one click(on ux0 or ur0):
-- DownloadEnabler
 - NoNpDrm
 - Shellbat
 - NoAVLS by SilicaAndPina
